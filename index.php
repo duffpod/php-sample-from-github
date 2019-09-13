@@ -8,7 +8,11 @@
 
 <body>
   <div class="content">
-    <?php echo '<h1>Ivan Ivanov</h1>'; ?>
+    <?php
+      echo '<h1>Ivan Ivanov</h1>';
+      echo "4 + 4 = " . (4 + 4);
+      echo "4 + 4 = 8";
+    ?>
   </div>
 </body>
 
